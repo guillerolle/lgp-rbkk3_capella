@@ -9,4 +9,21 @@
 	<natures>
 		<nature>org.polarsys.capella.project.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Images/KK3-LUMBERG CONNECTOR.png</name>
+			<type>1</type>
+			<location>/home/guillermo/Documentos/Doctorado/Investigaciones/2405 - LGP - Mobile + Cobot/Capella/03 - LGP Mobile Platform and Cobot Integration/Images/KK3-LUMBERG CONNECTOR.png</location>
+		</link>
+		<link>
+			<name>Images/KK3-MOUNTING PLATE.png</name>
+			<type>1</type>
+			<location>/home/guillermo/Documentos/Doctorado/Investigaciones/2405 - LGP - Mobile + Cobot/Capella/KINOVA_GEN3_MOUNTING PLATE.png</location>
+		</link>
+		<link>
+			<name>Images/RB-USER POWER BOARD.png</name>
+			<type>1</type>
+			<location>/home/guillermo/Documentos/Doctorado/Investigaciones/2405 - LGP - Mobile + Cobot/Capella/03 - LGP Mobile Platform and Cobot Integration/Images/RB-USER POWER BOARD.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
